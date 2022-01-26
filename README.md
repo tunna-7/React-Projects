@@ -5,4 +5,5 @@
 ![image](https://user-images.githubusercontent.com/66274690/150846619-ed223896-9de1-4da8-973e-84fbc1ff2b31.png)
 
 ### 2) Digital-Business-Card
-![image](https://user-images.githubusercontent.com/66274690/151253911-1d6d94f6-f492-4f56-8cef-2f4106ec08ef.png)
+![image](https://user-images.githubusercontent.com/66274690/151254080-8f9c5c13-9dc4-4f47-92c6-653537d74147.png)
+
