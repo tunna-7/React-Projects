@@ -1,0 +1,141 @@
+#root{
+  position:fixed;
+  left: 40%;
+}
+body {
+  background-color: #23252C;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  align-items: center
+}
+
+.my--app {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* MainBody.js */
+.my--mainbody {
+  background-color: #1A1B21;
+}
+
+.name {
+  color: white;
+}
+
+.tag {
+  color: #F3BF99;
+}
+/* Mail button */
+.css-button1 {
+	font-family: 'Inter', sans-serif;
+	color: #374151;
+	font-size: 12px;
+	border-radius: 6px;
+	border: 0px #ffffff solid;
+	background-color: #ffffff;
+	box-shadow: inset 1px 1px 2px 0px #bbdaf7;
+	cursor: pointer;
+	display: inline-flex;
+	align-items: center;
+  margin-right: 10px;
+}
+.css-button1-icon {
+	padding: 8px 10px;
+	color: #000000;
+}
+.css-button1-icon i {
+	position: relative;
+	font-size: 14px;
+}
+.css-button1-text {
+	padding: 8px 8px;
+}
+.css-button1-text span{
+	display: block;
+	position: relative;
+	left: -6px;
+}
+/* LinkedIn Button */
+.css-button {
+	font-family: 'Inter', sans-serif;
+	color: #ffffff;
+	font-size: 12px;
+	border-radius: 6px;
+	border: 0px #ffffff solid;
+	background-color: #5094e2;
+	cursor: pointer;
+	display: inline-flex;
+	align-items: center;
+}
+.css-button-icon {
+	padding: 8px 10px;
+	color: #000000;
+}
+.css-button-icon i {
+  color: white;
+	position: relative;
+	font-size: 14px;
+}
+.css-button-text {
+	padding: 8px 8px;
+}
+.css-button-text span{
+	display: block;
+	position: relative;
+	left: -12px;
+}
+/* ******************* */
+.about{
+  padding-left: 18px;
+  color: white;
+  height: 0px;
+  text-align: left;
+}
+.about-des {
+  text-align: left;
+  padding-left: 18px;
+  line-height: 15px;
+  color: #DCDCDC;
+  text-align: justify;
+  text-justify: auto;
+}
+/* ******************* */
+/* Footer.js */
+.my--footer {
+  height:70px;
+  background-color: #161619;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.my--footer .fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 15px;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+.fa-facebook {
+  background: #918E9B;
+  color: #161619;
+}
+
+.fa-twitter {
+  background: #918E9B;
+  color: #161619;
+}
+.fa-instagram {
+  background: #918E9B;
+  color: #161619;
+}
+.fa-github {
+  background: #918E9B;
+  color: #161619;
+}
+.my--footer .fa:hover {
+  opacity: 0.7;
+}
