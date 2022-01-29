@@ -1,0 +1,56 @@
+body {
+    margin: 0px;
+    font-family: 'Inter', sans-serif;
+}
+a {
+    color: #918E9B;
+}
+/* NavBar.js */
+.fa {
+    color: #F55A5A;
+    margin-right: 5px;
+}
+.mynav {
+    height: 75px;
+    display:flex;
+    background-color: #F55A5A;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    
+}
+.mynav--img{
+    height: 35px;
+    margin: 30px;
+}
+.mynav--header {
+    color: white;
+}
+
+/* Card.js */
+.mycard {
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+}
+.mycard--img {
+    width: 20%;
+    
+    border-radius: 10px;
+    margin-right: 25px;
+}
+.mycard--text {
+    padding: 10px;
+}
+.mycard--location {
+    text-transform: uppercase;
+    margin-right: 10px;
+}
+.mycard--title {
+    margin-top: 15px;
+    margin-bottom: 35px;
+    font-size: 40px;
+}
+.mycard--desc {
+    margin-top: 15px;
+    max-width: 400px;
+}
